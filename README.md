@@ -7,7 +7,7 @@ Passionate developer focused on web and data. I love learning new technologies a
 
 🚀 Projects I'm working on : MyLegendTeam, a Next.js/Express.js project
 
-🎓 About to start a Master’s degree MAALSI at home in Brest (Brittany, France) 
+🎓 About to start a Master’s degree MAALSI at home in Brest (Brittany, France) based on expertise in IT project management, global software architecture, and team management
 
 📫 Contact: jeremy.louet29@hotmail.fr
 
