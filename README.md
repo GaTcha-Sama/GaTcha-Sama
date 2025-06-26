@@ -9,7 +9,7 @@ Passionate developer focused on web and data. I love coding, learning new techno
 
 💻​ Projects I'm working on at work : confidential 😄​
 
-🎓 About to start a Master’s degree MAALSI in Brest (Brittany, France) based on expertise in IT project management, global software architecture, and team management
+🎓 About to start a Master’s degree in Brest (Brittany, France) based on expertise in IT project management, global software architecture, and team management
 
 📫 Contact: jeremy.louet29@hotmail.fr
 
