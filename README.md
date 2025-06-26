@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jeremy 👋
+Passionate developer focused on web and data. I love learning new technologies and sharing my projects.
 
-<!--
-**GaTcha-Sama/GaTcha-Sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning more Java Spring Hibernate and working on a Next.js/Express.js project
 
-Here are some ideas to get you started:
+🛠️ My favorite tools: Python/Django, React/Next, PHP/Symfony, Drupal, Docker, GitHub Pages and Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects I'm working on : MyLegendTeam, a Next.js/Express.js project
+
+🎓 About to start a Master’s degree MAALSI at home in Brest (Brittany, France) 
+
+📫 Contact: jeremy.louet29@hotmail.fr
+
+https://gatcha-sama.github.io/Portfolio-Jeremy-Louet/
+
