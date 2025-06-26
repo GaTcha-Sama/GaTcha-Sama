@@ -7,7 +7,7 @@ Passionate developer focused on web and data. I love coding, learning new techno
 
 🚀 Projects I'm working on at home : MyLegendTeam, a Next.js/Express.js project
 
-💻​ Projects I'm working on at work : confidential 
+💻​ Projects I'm working on at work : confidential 😄​
 
 🎓 About to start a Master’s degree MAALSI at home in Brest (Brittany, France) based on expertise in IT project management, global software architecture, and team management
 
