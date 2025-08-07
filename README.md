@@ -3,7 +3,7 @@ Passionate developer focused on web and data. I love coding, learning new techno
 
 🌱 Currently learning more on Java Spring Hibernate and working on a Next.js/Express.js project
 
-🛠️ My favorite tools: Python/Django, React/Next, Java/Spring, PHP/Symfony, Drupal, Docker, GitHub Pages and Vercel
+🛠️ My favorite tools: Python/Django, React/Next, Java/Spring, PHP/Symfony, Drupal, Docker, GitHub Pages, Render and Vercel
 
 🚀 Projects I'm working on at home : MyLegendTeam, a Next.js/Express.js project
 
