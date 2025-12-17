@@ -1,11 +1,11 @@
 # Hi, I'm Jeremy 👋
 Passionate developer focused on web and data. I love coding, learning new technologies and sharing my projects.
 
-🌱 Currently learning more on Java Spring Hibernate and working on a Next.js/Express.js project
+🌱 Currently learning more on solutions and software architecture and IT managing
 
-🛠️ My favorite tools: Python/Django, React/Next, Java/Spring, PHP/Symfony, Drupal, Docker, GitHub Pages, Render and Vercel
+🛠️ My favorite tools: Python/Django, React/Next, Java/Spring, PHP/Symfony, Docker, GitHub Pages, Render and Vercel
 
-🚀 Projects I'm working on at home : MyLegendTeam, a Next.js/Express.js project
+🚀 Projects I'm working on at home : a React Native/Django project
 
 💻​ Projects I'm working on at work : confidential 😄​
 
